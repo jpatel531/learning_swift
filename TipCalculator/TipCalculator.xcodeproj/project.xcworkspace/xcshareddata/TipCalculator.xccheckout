@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1E1C892D-889C-4277-88CC-2E615724E527</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TipCalculator</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8FE788F05A5410DF9E729780EE22B6AD579B039B</key>
+		<string>https://github.com/jpatel531/learning_swift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TipCalculator/TipCalculator.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8FE788F05A5410DF9E729780EE22B6AD579B039B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jpatel531/learning_swift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8FE788F05A5410DF9E729780EE22B6AD579B039B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8FE788F05A5410DF9E729780EE22B6AD579B039B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>learning_swift</string>
+		</dict>
+	</array>
+</dict>
+</plist>
